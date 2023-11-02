@@ -3,7 +3,7 @@
 [PA Write Up](https://markefontenot.notion.site/PA-05-8263d28a81a7473d8372c6579abd6481)
 
 # 3500 PA05 Project Repo: Digital Bullet Journal
-Did you dreamed of a handy weekly planner that can be an useful organizer for your daily tasks and events?
+Have you ever dreamed of a handy weekly planner that can be an useful organizer for your daily tasks and events?
 Well then today is your lucky day!
 
 ## FLEXIBLE WEEK VIEW:
